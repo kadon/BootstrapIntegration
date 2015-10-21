@@ -1,5 +1,5 @@
 .color-0{
-    background-color: #b6b6b6;
+    background-color: white;
 
 }
 .color-1{
@@ -7,7 +7,7 @@
 }
 
 .color-2{
-    background-color: #fffa6b;
+    background-color: #b6b6b6;
 }
 
 .color-3{
@@ -24,4 +24,10 @@
 
 .color-6{
     background-color: #8250ae;
+}
+
+.dotted{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #898989;
 }
