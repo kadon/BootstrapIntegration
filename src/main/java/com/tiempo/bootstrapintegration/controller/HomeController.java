@@ -1,4 +1,4 @@
-package com.sourcethought.bootstrapintegration.controller;
+package com.tiempo.bootstrapintegration.controller;
 
 import java.io.IOException;
 

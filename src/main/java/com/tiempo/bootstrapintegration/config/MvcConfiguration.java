@@ -1,4 +1,4 @@
-package com.sourcethought.bootstrapintegration.config;
+package com.tiempo.bootstrapintegration.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -10,7 +10,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @Configuration
-@ComponentScan(basePackages="com.sourcethought.bootstrapintegration")
+@ComponentScan(basePackages="com.tiempo.bootstrapintegration")
 @EnableWebMvc
 public class MvcConfiguration extends WebMvcConfigurerAdapter{
 
